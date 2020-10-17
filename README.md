@@ -39,6 +39,12 @@
 </p>
 
 <!--
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/1261500725)
+-->
+
+<!--
 **Thatkookooguy/thatkookooguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
