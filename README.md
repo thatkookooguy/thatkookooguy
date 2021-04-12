@@ -13,12 +13,24 @@
   I'm a Software Engineer specializing in Web Development, tools and the JavaScript\TypeScript eco system. kibibit is my OS organization. find more projects there
 </p>
 <p align="center">
-  <a href="#"><img src="http://img.shields.io/static/v1?label=Stackoverflow&message=thatkookooguy&color=FE7A16&style=for-the-badge&logo=stackoverflow"></a>
-  <a href="#"><img src="http://img.shields.io/static/v1?label=twitter&message=thatkookooguy&color=1DA1F2&style=for-the-badge&logo=twitter"></a>
-  <a href="#"><img src="http://img.shields.io/static/v1?label=twitter&message=thatkookooguy&color=1DA1F2&style=for-the-badge&logo=twitter"></a>
-  <a href="#"><img src="http://img.shields.io/static/v1?label=codepen&message=thatkookooguy&color=212121&style=for-the-badge&logo=codepen"></a>
-  <a href="#"><img src="http://img.shields.io/static/v1?label=linkedin&message=thatkookooguy&color=0077B5&style=for-the-badge&logo=linkedin"></a>
-  <a href="#"><img src="http://img.shields.io/static/v1?label=twitch&message=thatkookooguy&color=9146FF&style=for-the-badge&logo=twitch"></a>
+  <a href="https://stackoverflow.com/story/neilkalman">
+    <img src="http://img.shields.io/static/v1?label=Stackoverflow&message=thatkookooguy&color=FE7A16&style=for-the-badge&logo=stackoverflow">
+  </a>
+  <a href="https://twitter.com/thatkookooguy">
+    <img src="http://img.shields.io/static/v1?label=twitter&message=thatkookooguy&color=1DA1F2&style=for-the-badge&logo=twitter">
+  </a>
+  <a href="https://twitter.com/kibibit_opensrc">
+    <img src="http://img.shields.io/static/v1?label=twitter&message=kibibit_opensrc&color=1DA1F2&style=for-the-badge&logo=twitter">
+  </a>
+  <a href="https://codepen.io/neilkalman">
+    <img src="http://img.shields.io/static/v1?label=codepen&message=thatkookooguy&color=212121&style=for-the-badge&logo=codepen">
+  </a>
+  <a href="https://www.linkedin.com/in/neil-kalman/">
+    <img src="http://img.shields.io/static/v1?label=linkedin&message=thatkookooguy&color=0077B5&style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://www.twitch.tv/thatkookooguy">
+    <img src="http://img.shields.io/static/v1?label=twitch&message=thatkookooguy&color=9146FF&style=for-the-badge&logo=twitch">
+  </a>
 </p>
 <p align="center">
   <a href="#"><img src="http://img.shields.io/static/v1?label=%20&message=TypeScript&color=007ACC&style=for-the-badge&logo=typescript"></a>
