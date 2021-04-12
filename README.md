@@ -32,6 +32,7 @@
     <img src="http://img.shields.io/static/v1?label=twitch&message=thatkookooguy&color=9146FF&style=for-the-badge&logo=twitch">
   </a>
 </p>
+<hr>
 <p align="center">
   <a href="#"><img src="http://img.shields.io/static/v1?label=%20&message=TypeScript&color=007ACC&style=for-the-badge&logo=typescript"></a>
   <a href="#"><img src="http://img.shields.io/static/v1?label=%20&message=JavaScript&color=212121&style=for-the-badge&logo=javascript"></a>
