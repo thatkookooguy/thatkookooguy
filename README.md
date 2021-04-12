@@ -22,7 +22,7 @@
   <a href="https://twitter.com/kibibit_opensrc">
     <img src="http://img.shields.io/static/v1?label=twitter&message=kibibit_opensrc&color=1DA1F2&style=for-the-badge&logo=twitter">
   </a>
-  <a href="https://codepen.io/neilkalman">
+  <a href="https://codepen.io/thatkookooguy">
     <img src="http://img.shields.io/static/v1?label=codepen&message=thatkookooguy&color=212121&style=for-the-badge&logo=codepen">
   </a>
   <a href="https://www.linkedin.com/in/neil-kalman/">
