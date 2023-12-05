@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/thatkookooguy" target="blank"><img src="2020-10-17-12-58-11.gif" width="450" ></a>
+  <a href="https://kibibit.io/talking-avatars" target="blank"><img src="2020-10-17-12-58-11.gif" width="450" ></a>
   <h2 align="center">
     @thatkookooguy
   </h2>
